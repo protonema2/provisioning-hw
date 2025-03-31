@@ -6,6 +6,7 @@ http
 Copy
 GET /api/v1/provisioning/{mac_address}
 Response if the device is found:
+
 ✅ Desk Device → Property file
 ini
 Copy
